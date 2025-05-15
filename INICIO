@@ -1,0 +1,6 @@
+React Native é um framework usado para desenvolver APLICATIVOS
+
+Ele cria uma "bolha" onde, independente do sistema operacional 
+(IOS com object-c ou swift / Android com Java), o aplicativo VAI funcionar
+    Obs: O React não usa 100% do hardware do aparelho por não ser 100% nativo
+
